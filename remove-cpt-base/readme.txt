@@ -4,8 +4,8 @@ Donate link: https://www.paypal.me/jakubnovaksl
 Tags: permalink, custom post type, base, slug, remove
 Requires at least: 3.0
 Requires PHP: 5.6
-Tested up to: 6.7
-Stable tag: 6.6
+Tested up to: 6.9
+Stable tag: 6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,9 @@ If you're using Yoast SEO plugin, after you change something in the Remove CPT b
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 6.7 =
+* tested on WP 6.9
 
 = 6.6 =
 * tested on WP 6.7
